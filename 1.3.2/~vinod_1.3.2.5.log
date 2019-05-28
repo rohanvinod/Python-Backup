@@ -1,0 +1,113 @@
+# IPython log file
+
+import
+clear
+import
+clear
+import matplotlib
+matplotlib.use("agg")
+import numpy as np
+a = np.random.randn(10000)
+plt.hist(a)
+plt.hst(a)
+clear
+plt.hist(a)
+import matplotlib
+matplotlib.use("agg")
+import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
+import numpy as np
+a = np.random.randn(10000)
+plt.hist(a)
+#[Out]# (array([   26.,   251.,   934.,  2144.,  2905.,  2314.,  1093.,   286.,
+#[Out]#           43.,     4.]), array([-3.43010304, -2.67957576, -1.92904848, -1.17852121, -0.42799393,
+#[Out]#         0.32253334,  1.07306062,  1.8235879 ,  2.57411517,  3.32464245,
+#[Out]#         4.07516973]), <a list of 10 Patch objects>)
+plt.savefig('1.3.2/histogram')
+%logstart -ort 1.3.2/logs/vinod_1.3.2.5.log
+%logstart -ort 1.3.2/logs/vinod_1.3.2.5.log
+%logstart -ort 1.3.2/logs/vinod_1.3.2.5.log %logstop
+%logstart -ort 1.3.2/logs/vinod_1.3.2.py.log
+%logstart -ort 1.3.2/logs/vinod_1.3.2.py.log
+%logstart -ort 1.3.2/logs/vinod_1.3.2.py.log
+%logstart -ort1.3.2/logs/vinod_1.3.2.py.log
+# Fri, 07 Dec 2018 20:45:23
+3**2
+#[Out]# 9
+# Fri, 07 Dec 2018 20:45:40
+abs(-7)
+#[Out]# 7
+# Fri, 07 Dec 2018 20:46:19
+5+3.
+#[Out]# 8.0
+# Fri, 07 Dec 2018 20:46:25
+5+3
+#[Out]# 8
+# Fri, 07 Dec 2018 20:48:51
+7/3
+#[Out]# 2
+# Fri, 07 Dec 2018 20:48:57
+7/2
+#[Out]# 3
+# Fri, 07 Dec 2018 20:49:07
+7/5
+#[Out]# 1
+# Fri, 07 Dec 2018 20:49:11
+7/7
+#[Out]# 1
+# Fri, 07 Dec 2018 20:49:15
+7/1
+#[Out]# 7
+# Fri, 07 Dec 2018 20:51:30
+#7b. division returns the answer in a whole number and does not return the answer in fractions or decimals
+# Fri, 07 Dec 2018 20:53:54
+#8. assignment
+# Fri, 07 Dec 2018 20:54:25
+student_age = 16
+# Fri, 07 Dec 2018 20:57:15
+a
+#[Out]# array([-0.75461788, -1.66811522,  1.498479  , ..., -1.00584961,
+#[Out]#         0.13071919, -0.78252278])
+# Fri, 07 Dec 2018 20:57:30
+a * 7
+#[Out]# array([ -5.28232516, -11.67680655,  10.48935302, ...,  -7.04094729,
+#[Out]#          0.91503432,  -5.47765945])
+# Fri, 07 Dec 2018 20:58:13
+3**2 # exponentiation
+#[Out]# 9
+# Fri, 07 Dec 2018 20:58:46
+23**43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967L
+# Fri, 07 Dec 2018 20:59:26
+#9. 35834136918934220777541995677272642015423987712183913488967L
+# Fri, 07 Dec 2018 20:59:43
+abs(-7)
+#[Out]# 7
+# Fri, 07 Dec 2018 21:02:48
+ %run 1.3.2/vinod_1.3.2.py
+# Fri, 07 Dec 2018 21:03:18
+ %run 1.3.2/~vinod_1.3.2.py
+# Fri, 07 Dec 2018 21:04:32
+%run 1.3.2/vinod_1.3.2.py
+# Fri, 07 Dec 2018 21:06:26
+ %run 1.3.2/Vinod_1.3.2.py
+# Fri, 07 Dec 2018 21:11:52
+#11. it would be more efficient to edit more lines of code than to execute each line of code.
+# Fri, 07 Dec 2018 21:16:11
+#12. scratch and appinventor didn't use ay blocks to group the if and the else blocks together apart from the loop block. 
+# Fri, 07 Dec 2018 21:20:56
+you use ''' so that you can comment over multiple lines while explaining what te function of def is.
+#13.
+
+#14.advantages of destroying a local variable once the block is done executing would be that there would be no unused code left.
+'''
+# Fri, 07 Dec 2018 21:24:47
+#15. a compiler would also be like an interpreter because it transforms the code into machine code.
+# Fri, 07 Dec 2018 21:26:39
+a = add_tip(20, 0.15)
+# Fri, 07 Dec 2018 21:29:00
+ %run 1.3.2/Vinod_1.3.2.py
+# Fri, 07 Dec 2018 21:33:22
+#17a. hypotenuse test
+# Fri, 07 Dec 2018 21:33:36
+hyp(3,4)
